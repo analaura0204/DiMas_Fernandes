@@ -8,3 +8,15 @@ Semana 1: fluxograma
 • O fluxograma possui algumas regras como: - A declaração de abertura do fluxograma deve ser a palavra-chave ‘Iniciar’. - A instrução final do fluxograma deve ser a palavra-chave ‘Terminar’. - Todos os símbolos no fluxograma devem ser conectados com uma linha de seta. - O símbolo de decisão no fluxograma não pode ser associado à linha de seta.
  • Comandos utilizados na programação do fluxograma: - “if” e “else”, utilizado quando é preciso escolher entre dois ou mais caminhos; - “print”, utilizado junto ao “if” e ao “else” para que o programa dê uma resposta de acordo com a afirmação seja ela verdadeira ou falsa.
 
+
+Semana 2: comandos básicos do Python 
+•	Python é um dos programas de linguagem mais usados no mundo. Usado para desenvolvimento de software, cálculos matemáticos, criar aplicativos, bancos de dados e muitas outras coisas. Além de tudo isso, ele também funciona em diferentes plataformas como: Windows, Mac, Linux, entre outras.
+•	Hoje iremos ver algumas linguagens básicas para a construção de um código em Python;
+- o termo “print” é usado para saída de textos;
+- o símbolo “#” é usado para adicionar comentários ao seu código, ele será ignorado pelo programa ;
+-  “int” é usado quando estamos trabalhando com números inteiros;
+- “float” é usado para quando estamos trabalhando com números de ponto flutuante; 
+- “bool” usado para FALSE (0) ou TRUE (1);
+- “input” suspende a execução do programa até que o usuário escreva sua entraf=da e pressione enter;
+ 
+
