@@ -17,6 +17,6 @@ Semana 2: comandos básicos do Python
 -  “int” é usado quando estamos trabalhando com números inteiros;
 - “float” é usado para quando estamos trabalhando com números de ponto flutuante; 
 - “bool” usado para FALSE (0) ou TRUE (1);
-- “input” suspende a execução do programa até que o usuário escreva sua entraf=da e pressione enter;
+- “input” suspende a execução do programa até que o usuário escreva sua entrada e pressione enter;
  
 
