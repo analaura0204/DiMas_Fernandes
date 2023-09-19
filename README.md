@@ -10,7 +10,7 @@ Semana 1: fluxograma
 
 
 Semana 2: comandos básicos do Python 
-•	Python é um dos programas de linguagem mais usados no mundo. Usado para desenvolvimento de software, cálculos matemáticos, criar aplicativos, bancos de dados e muitas outras coisas. Além de tudo isso, ele também funciona em diferentes plataformas como: Windows, Mac, Linux, entre outras.
+•	Python é um dos programas de linguagem mais usados no mundo. Utilizado para desenvolvimento de software, cálculos matemáticos, criar aplicativos, bancos de dados e muitas outras coisas. Além de tudo isso, ele também funciona em diferentes plataformas como: Windows, Mac, Linux, entre outras.
 •	Hoje iremos ver algumas linguagens básicas para a construção de um código em Python;
 - o termo “print” é usado para saída de textos;
 - o símbolo “#” é usado para adicionar comentários ao seu código, ele será ignorado pelo programa ;
