@@ -30,5 +30,28 @@ PODCAST LP
 •	Módulo (representado pelo sinal de “porcentagem” % ): Este operador é usado para obter o resto da divisão entre dois números. Exemplo: 15 % 4 = 3 (quinze dividido por quatro possui resto igual à três);
 •	Potenciação (representado pelo sinal de “dois asteriscos” ** ): Este operador é usado para elevar um número à potência de outro. Exemplo: 5 ** 3 = 125 ( cinco elevado à três é igual à cento e vinte e cinco);
 
+
+## Semana 4: PLN 
+O Processamento de Linguagem Natural - PLN - é uma tecnologia que permite que computadores compreendam e processem a linguagem humana. É uma tecnologia crucial em nossa vida cotidiana e continua a evoluir com o tempo.
+Principais bibliotecas python para PLN:
+- O NLTK (Natural Language Toolkit) é uma ferramenta de programação que ajuda computadores a entender e trabalhar com a linguagem humana. É útil para projetos que envolvem processamento de linguagem natural, como chatbots e análise de texto.
+- Gensim é uma biblioteca Python usada para processar texto e encontrar semelhanças entre documentos. É usado em análise de dados, geração de texto (como chatbots) e busca semântica.
+- SpaCy é uma biblioteca Python para processamento de texto e linguagem natural, rápida e eficiente, adequada para projetos do mundo real. Ela oferece várias funcionalidades,como tokenização, análise gramatical, reconhecimento de entidades nomeadas e é compatível com vários idiomas.
+- O Stanford CoreNLP é uma ferramenta de computação que ajuda a entender e analisar textos em linguagem humana, como inglês e outros idiomas. Ele pode extrair informações importantes, como partes do discurso e nomes de entidades, tornando mais fácil para os computadores compreenderem o significado do texto
+- O TextBlob é uma biblioteca de processamento de linguagem natural em Python que é fácil de usar, rápida e ótima para iniciantes. Ele oferece recursos como análise de sentimento, marcação gramatical e correção ortográfica, facilitando a análise de texto em projetos de ciência de dados e NLP.
+- O AllenNLP é uma avançada ferramenta de processamento de linguagem natural baseada no PyTorch, adequada para aplicações comerciais e de pesquisa. Ela simplifica a análise de texto, usando a biblioteca SpaCy para pré-processamento de dados.
+-Polyglot é uma biblioteca que ajuda a trabalhar com diferentes idiomas em projetos de processamento de linguagem natural. É útil quando você precisa lidar com textos em várias línguas e deseja realizar análises linguísticas em diferentes contextos linguísticos.
+- Scikit-Learn é uma biblioteca de processamento de linguagem natural amplamente usada por cientistas de dados. Ela oferece muitos algoritmos para construir modelos de aprendizado de máquina em NLP, mas não inclui suporte para redes neurais e pode ser limitada para tarefas complexas de pré-processamento de texto.
+Principais Tecnologias e Aplicações do PLN:
+-Recuperação de Informação: Aplicada em motores de busca como Google, usa técnicas de PLN para recuperar documentos relevantes em resposta a consultas.
+-Perguntas e Respostas: Capacidade de responder a perguntas em linguagem natural, como assistentes virtuais.
+-Extração de Informação: Identificação e extração de informações-chave de textos, como autor, data, etc.
+-Sumarização Automática: Reduzir textos longos a resumos mais curtos, mantendo o significado.
+-Tradução de Máquina: Traduzir texto de um idioma para outro, como o Google Tradutor.
+-Sistemas de Diálogo: Aplicativos que interagem com usuários, como assistentes de voz.
+-Reconhecimento Ótico de Caracteres (OCR): Converter texto de imagens e vídeos em texto legível por computador.
+-Reconhecimento de Fala: Transcrever fala em texto, como legendas automáticas no YouTube.
+-Compreensão da Linguagem Natural: Capacidade de interpretar o significado lógico de frases e instruções em linguagem natural.
+
  
 
