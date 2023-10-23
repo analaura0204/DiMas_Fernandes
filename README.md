@@ -54,4 +54,12 @@ Principais Tecnologias e Aplicações do PLN:
 -Compreensão da Linguagem Natural: Capacidade de interpretar o significado lógico de frases e instruções em linguagem natural.
 
  
+# Financeiro
 
+## Semana 1
+
+Olá pessoal, sejam bem vindos as vídeo aulas introdutórias sobre a engenharia econômica e terminal bloomberg, organizado pelo projeto Dimas Fernandes. O objetivo do projeto é educar de uma forma simples, incentivando aqueles interessados a buscar a monitoria. Nelas irei introduzir algumas das funções básicas que o projeto tem a oferecer.
+
+## Semana 2
+
+O terminal Bloomberg consiste em uma rede dinâmica de dados financeiros, dados de negócios e de notícias de todo o mundo. Nessa aula falarei sobre sua primeira função, analisar o mercado como um todo. O Bloomberg te permite analisar o mercado com uma visão macro, possibilitando seu usuário a analisar o mercado global. Isso permite que o usuário analise dados de países e regiões e compare os entre si, tendo acesso ao histórico completo das últimas décadas.
