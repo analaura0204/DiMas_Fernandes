@@ -56,10 +56,27 @@ Principais Tecnologias e Aplicações do PLN:
  
 # Financeiro
 
-## Semana 1
+## Resumo
+
+ O terminal bloomberg é um plataforma rica em dados do mercado financeiro, permitindo que aqueles que a utilizam façam análises críticas, tranparentes e informadas sobre o mercado. Durante a monitoria orientamos e tiramos dúvidas sobre como navegar no terminal, permitindo assim extrair o máximo de informações financeiras, de negócios e de notícias que o teminal tem a oferecer.
+
+## Introdução
 
 Olá pessoal, sejam bem vindos as vídeo aulas introdutórias sobre a engenharia econômica e terminal bloomberg, organizado pelo projeto Dimas Fernandes. O objetivo do projeto é educar de uma forma simples, incentivando aqueles interessados a buscar a monitoria. Nelas irei introduzir algumas das funções básicas que o projeto tem a oferecer.
 
-## Semana 2
+## Semana 1
 
 O terminal Bloomberg consiste em uma rede dinâmica de dados financeiros, dados de negócios e de notícias de todo o mundo. Nessa aula falarei sobre sua primeira função, analisar o mercado como um todo. O Bloomberg te permite analisar o mercado com uma visão macro, possibilitando seu usuário a analisar o mercado global. Isso permite que o usuário analise dados de países e regiões e compare os entre si, tendo acesso ao histórico completo das últimas décadas.
+
+## Semana 2
+
+Nessa aula falarei sobre a sua segunda função, a análise de empresas e investimento em ações. O terminal Bloomberg oferece dados de diversas empresas de todo o mundo, que podem ser utilizados para auxiliar na tomada de decisão na hora de investir. Alguns dos dados que aprendemos a encontrar e analisar são: encontrar uma empresa baseando-se em filtros, ter acesso a diversos dados da empesa, comparar a empresa a seus concorrentes e analisar as recomendações de analistas.
+
+## Semana 3
+
+Nessa aula falarei sobre a sua terceira função, a análise do mercado de rendas fixas. Os títulos são, junto com as ações, uma das formas mais comuns de se investir. De forma resumida, eles se baseiam em investir em uma corporação ou governo para que após um prazo pré-definido haja um retorno com juros. O terminal Bllomberg te permite: identificar títulos, realizar uma análise do mutuário, analisar o histórico e simular a compra de um título.
+
+## Semana 4
+
+Nessa aula falarei sobre a sua quarta função, a criação de seu portfólio. O portfólio é a combinação de todos os investimentos realizados por uma pessoa. O terminal Bloomberg te permite: conferir os mais ricos do mundo e seus portfólios, assim como os seus estilos de investimento, e simular um portfólio personalizado, analisando como ele se desempenha.
+
