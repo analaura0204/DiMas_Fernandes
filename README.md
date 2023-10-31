@@ -74,7 +74,7 @@ Nessa aula falarei sobre a sua segunda função, a análise de empresas e invest
 
 ## Semana 3
 
-Nessa aula falarei sobre a sua terceira função, a análise do mercado de rendas fixas. Os títulos são, junto com as ações, uma das formas mais comuns de se investir. De forma resumida, eles se baseiam em investir em uma corporação ou governo para que após um prazo pré-definido haja um retorno com juros. O terminal Bllomberg te permite: identificar títulos, realizar uma análise do mutuário, analisar o histórico e simular a compra de um título.
+Nessa aula falarei sobre a sua terceira função, a análise do mercado de rendas fixas. Os títulos são, junto com as ações, uma das formas mais comuns de se investir. De forma resumida, eles se baseiam em investir em uma corporação ou governo para que após um prazo pré-definido haja um retorno com juros. O terminal Bloomberg te permite: identificar títulos, realizar uma análise do mutuário, analisar o histórico e simular a compra de um título.
 
 ## Semana 4
 
