@@ -80,3 +80,21 @@ Nessa aula falarei sobre a sua terceira função, a análise do mercado de renda
 
 Nessa aula falarei sobre a sua quarta função, a criação de seu portfólio. O portfólio é a combinação de todos os investimentos realizados por uma pessoa. O terminal Bloomberg te permite: conferir os mais ricos do mundo e seus portfólios, assim como os seus estilos de investimento, e simular um portfólio personalizado, analisando como ele se desempenha.
 
+
+# Cálculo Diferencial e Integral
+
+## Semana 1: A História do Cálculo
+
+O cálculo foi desenvolvido por Isaac Newton e Gottfried Wilhelm Leibniz no século XVII, o cálculo abriu novos caminhos para a compreensão do mundo natural. Newton focou na física, formulando as leis do movimento e a lei da gravitação universal. Por outro lado, Leibniz desenvolveu a notação que usamos hoje, tornando o cálculo uma ferramenta mais acessível e prática para os matemáticos. O cálculo é usado para entender as taxas de mudança e acumulação, e tem aplicações em uma variedade de campos, incluindo física, engenharia, economia, biologia e muito mais. Através do cálculo, somos capazes de modelar e prever fenômenos naturais com precisão incrível.
+
+## Semana 2: Newton X Leibniz
+
+Isaac Newton e Gottfried Wilhelm Leibniz são considerados os “pais” do cálculo infinitesimal. No entanto, houve uma controvérsia significativa sobre quem fez a descoberta primeiro. Esta disputa é uma das mais famosas na história da ciência. Newton desenvolveu suas ideias por volta do ano 1666, mas não as publicou imediatamente. Leibniz, por outro lado, publicou suas descobertas mais tarde.
+Ambos os cientistas sintetizaram dois conceitos que hoje chamamos de derivada e integral, desenvolveram as ferramentas para gerenciá-los, mostraram que são conceitos inversos (o que é chamado de teorema fundamental do cálculo). A disputa só terminou com a morte de Newton em 1727. Hoje, é amplamente aceito que ambos os cientistas descobriram o cálculo infinitesimal de maneira independente.
+
+## Semana 3: O Teorema Fundamental do Cálculo
+
+O Teorema Fundamental do Cálculo é um conceito crucial que conecta duas operações principais do cálculo: a diferenciação e a integração. A diferenciação nos permite encontrar a taxa de variação de uma função em um ponto específico. Isso é feito encontrando a inclinação da linha tangente à curva da função nesse ponto. A integração, por outro lado, nos permite calcular a área sob a curva de uma função entre dois pontos. A primeira parte do Teorema Fundamental do Cálculo nos diz que se pegarmos uma função contínua, integrá-la e depois diferenciá-la, voltaremos à função original.
+A segunda parte do teorema nos diz que se pegarmos uma função contínua, diferenciá-la para obter outra função, e depois integrar essa nova função, voltaremos à função original. Portanto, o Teorema Fundamental do Cálculo estabelece que a diferenciação e a integração são processos inversos. 
+
+## Semana 4:
