@@ -97,4 +97,9 @@ Ambos os cientistas sintetizaram dois conceitos que hoje chamamos de derivada e 
 O Teorema Fundamental do Cálculo é um conceito crucial que conecta duas operações principais do cálculo: a diferenciação e a integração. A diferenciação nos permite encontrar a taxa de variação de uma função em um ponto específico. Isso é feito encontrando a inclinação da linha tangente à curva da função nesse ponto. A integração, por outro lado, nos permite calcular a área sob a curva de uma função entre dois pontos. A primeira parte do Teorema Fundamental do Cálculo nos diz que se pegarmos uma função contínua, integrá-la e depois diferenciá-la, voltaremos à função original.
 A segunda parte do teorema nos diz que se pegarmos uma função contínua, diferenciá-la para obter outra função, e depois integrar essa nova função, voltaremos à função original. Portanto, o Teorema Fundamental do Cálculo estabelece que a diferenciação e a integração são processos inversos. 
 
-## Semana 4:
+## Semana 4: Limites
+
+Já explicamos as derivadas e as integrais, mas agora vamos mergulhar no conceito que é a base de ambos: os limites.
+Os limites são uma maneira de entender o comportamento de uma função ou sequência à medida que sua entrada se aproxima de um determinado valor. Eles são fundamentais para o cálculo, pois nos permitem definir a derivada, a integral, e são a base de muitos teoremas importantes.
+Mas como calculamos um limite? Existem várias maneiras, incluindo a substituição direta, fatoração, racionalização e regras especiais de limites.
+Os limites também nos ajudam a entender a ideia de continuidade de uma função. Uma função é contínua em um ponto se o limite da função nesse ponto é igual ao valor da função. Caso contrário, a função é descontínua.
